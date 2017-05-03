@@ -1,0 +1,301 @@
+body {
+    direction: rtl;
+    background-color: #F7F6F5;
+}
+
+/*פוטר*/
+
+
+footer {
+    width: 960px;
+    margin: 0 auto;
+    background-color: #DCD3CC;
+}
+
+#kav-footer {
+    background-image: url(../images/kav-footer.png);
+    background-repeat: no-repeat;
+    background-size: 960px;
+    height: 20px;
+    width: 960px;
+}
+
+#university p {
+    color: #AAA19A;
+    font-size: 11.5pt;
+    margin-right: 50px;
+    font-family: 'Varela Round', sans-serif;
+    display: inline-block;
+}
+
+#kesher {
+    color: #AAA19A;
+    font-size: 14pt;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+    margin-right: 818px;
+    margin-top: -62px;
+}
+
+
+
+/* קונטיינר ותפריט ניווט*/
+
+
+
+#container {
+    width: 960px;
+    height: 620px;
+    margin: 0 auto;
+    background-color: #DCD3CC;
+}
+
+nav {
+    margin-right: 50px;
+    float: right;
+    background-color: #DCD3CC;
+    width: 910px;
+}
+
+    nav ul li {
+        margin-top: 20px;
+        list-style: none;
+        float: right;
+        display: inline-block;
+        padding-top: 2px;
+    }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #AAA19A;
+            font-family: 'Varela Round', sans-serif;
+            font-size: 14pt;
+            text-align: center;
+            margin-left: 2px;
+        }
+
+            nav ul li a:hover {
+                background-color: #EADCD5;
+            }
+
+#page {
+    background-color: #EADCD5;
+    font-size: 14pt;
+    height: 20.5px;
+    font-family: 'Varela Round', sans-serif;
+    text-align: center;
+}
+
+
+
+/*דף הבית*/
+
+
+
+.kav {
+    color: #C6B9B0;
+}
+
+#myName {
+    clear: both;
+    font-family: GveretLevinAlefAlefAlef-Regular;
+    color: #F05253;
+    font-size: 25pt;
+    padding-top: 220px;
+    width: 129px;
+    padding-right: 420px;
+    background-image: url(../images/kav.png);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    background-position-y: 248px;
+    height: 39px;
+}
+
+h2 {
+    font-family: GveretLevinAlefAlefAlef-Regular;
+    color: #F7F6F5;
+    font-size: 60pt;
+    width: 530px;
+    padding-right: 225px;
+}
+
+
+#facebook {
+    display: inline-block;
+    background-image: url(../images/facebook.png);
+    background-size: 100px;
+    width: 50px;
+    height: 50px;
+    margin-right: 14px;
+}
+
+    #facebook:hover {
+        background-image: url(../images/facebook.png);
+        background-size: 100px;
+        width: 50px;
+        height: 50px;
+        background-position: right;
+    }
+
+.mail {
+    display: inline-block;
+    background-image: url(../images/mail.png);
+    background-size: 100px;
+    width: 50px;
+    height: 50px;
+    margin-left: 18px;
+}
+
+    .mail:hover {
+        background-image: url(../images/mail.png);
+        background-size: 100px;
+        width: 50px;
+        height: 50px;
+        background-position: right;
+    }
+
+
+
+/*תקשורת חזותית*/
+
+
+
+
+#takshahPIC {
+    width: 350px;
+    margin-right: 40px;
+    margin-top: -20px;
+}
+
+#bigTAKSHAH {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+    color: #554539;
+    padding-right: 62px;
+    padding-top: 53px;
+}
+
+#hesberTAKSHAH {
+    width: 896px;
+    padding-top: 12px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 14px;
+    color: #97877b;
+    padding-right: 39px;
+}
+
+#video {
+    width: 500px;
+    height: 251px;
+    margin-top: -255px;
+    margin-right: 419px;
+}
+
+
+
+
+/*ארגון ויצוג ידע*/
+
+#irgunPIC {
+    margin-right: 50px;
+    margin-top: -12px;
+    float: right;
+}
+
+#bigIRGUN {
+    clear: both;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+    color: #554539;
+    padding-right: 62px;
+    padding-top: 53px;
+}
+
+#hesberIRGUN {
+    clear: both;
+    width: 834px;
+    padding-top: 12px;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 14px;
+    color: #97877b;
+    padding-right: 50px;
+}
+
+#audio {
+    margin-right: 50px;
+    float: right;
+    clear: both;
+    margin-top: 10px;
+}
+
+
+
+/*גרפיקה*/
+
+#sofproject {
+    font-family: GveretLevinAlefAlefAlef-Regular;
+    color: #F7F6F5;
+    font-size: 30pt;
+    padding-right: 50px;
+    padding-top: 55px;
+}
+
+#first {
+    width: 367px;
+    display: inline-block;
+    padding-right: 40px;
+    float:right;
+}
+
+#second {
+    width: 367px;
+    display: inline-block;
+    float:right;
+    padding-right: 100px;
+}
+
+#graphicPICS {
+    padding-top: 22px;
+}
+
+#battlePIC {
+    padding-right: 57px;
+}
+
+#gamePIC {
+    padding-right: 66px;
+}
+
+
+#hesberBATTLE {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 14px;
+    color: #97877b;
+}
+
+#hesberGAME {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 14px;
+    color: #97877b;
+}
+#bigBATTLE{
+   font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+    color: #554539;
+    width: 300px;
+    margin-top: -281px;
+    padding-right: 63px;
+    position: absolute;
+}
+
+
+
+#bigGAME{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 13px;
+    color: #EADCD5;
+    position: absolute;
+    margin-top: -272px;
+    padding-right: 75px;
+
+}

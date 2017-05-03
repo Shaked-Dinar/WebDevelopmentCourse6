@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'GveretLevinAlefAlefAlef-Regular';
+    src: url('GveretLevinAlefAlefAlef-Regular.otf') format('opentype');
+}
+@font-face {
+    font-family: 'GveretLevinAlefAlefAlef-Regular';
+    src: url('GveretLevinAlefAlefAlef-Regular.woff') format('woff');
+}
+@font-face {
+    font-family: 'GveretLevinAlefAlefAlef-Regular';
+    src: url('GveretLevinAlefAlefAlef-Regular.eot') format('embedded-opentype');
+}
+@font-face {
+    font-family: 'GveretLevinAlefAlefAlef-Regular';
+    src: url('GveretLevinAlefAlefAlef-Regular.ttf') format('truetype');
+}
